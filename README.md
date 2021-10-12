@@ -21,7 +21,7 @@ From our plot, one can see that as the inflation rate decreases the price contin
 ## Does scarcity drive value?
 From looking at our plot we can see that a statistically significant relationship between stock-to-flow and market value does exist. It's unlikely that the relationship between stock-to-flow and market value is caused by chance. While Stock to Flow is an interesting model for measuring scarcity, it doesn’t account for all the pieces of the pie. Models are only as strong as their assumptions. Stock to Flow relies heavily on the assumption that scarcity, as measured by our model, should drive value. This model fails if Bitcoin doesn’t have any other useful qualities other than supply scarcity.
 
-![Bitcoin Stock-to-Flow](Photos/Stock-to-Flow_Plot.png)
+![Bitcoin Stock-to-Flow](Photos/Plots/Stock-to-Flow_Plot.png)
 ### When is the best time to enter / exit the Bitcoin market?
 
 We can utilize the MVRV ratio in a macro point of view to enter the market anytime the ratio falls below 1. We can also use this ratio to take profits anytime the ratio goes above 3.7
